@@ -1,4 +1,7 @@
 <?php
-echo '在本地仓库新建的e.php文件';
-echo '在主分支中修改';
+<<<<<<< HEAD
+
+=======
+echo '在fenzhi中新建e.php';
+>>>>>>> fenzhi
 ?>
